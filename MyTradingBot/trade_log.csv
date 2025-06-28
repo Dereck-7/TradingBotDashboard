@@ -1,0 +1,6 @@
+timestamp,symbol,bias,action,entry_price,sl,tp,result
+2025-06-27 09:00,XAUUSD,Bullish,buy,2345.00,2315.00,2435.00,win
+2025-06-27 09:15,XAUUSD,Bearish,sell,2330.00,2360.00,2240.00,loss
+2025-06-28 09:02,XAUUSD,Bullish,buy,2350.00,2320.00,2440.00,win
+2025-06-28 09:18,XAUUSD,Bearish,sell,2340.00,2370.00,2250.00,win
+2025-06-28 09:25,XAUUSD,Bullish,buy,2360.00,2330.00,2450.00,loss
